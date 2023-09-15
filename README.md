@@ -2,4 +2,17 @@
 There is an interesting and useful article says about the tips and standards of a good programmer. Check it out by clicking [here](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/).
 
 ## What I found interesting about the article
-The author emphsizes five good qualities that a good programmer should have, they are: *Problem Decomposition*, *Scenario Analysis*, *Good Naming*, *Consistency*, and *Persistent Learning*. These skills are generic and apply across languages and frameworks, ensuring their relevance over time.
+The author highlights five essential qualities that every proficient programmer should possess: <center>*Problem Decomposition, Scenario Analysis, Effective Naming, Consistency, Continuous Learning.*</center>
+
+To elaborate on each, we have:
+* **Problem Decomposition**: A proficient programmer can break a problem down into smaller, manageable parts, ensuring that the solution is clear, easy to implement, test, and reason about.
+
+* **Scenario Analysis**: Good developers anticipate different scenarios in the software, including both the normal flow and unexpected events. They think like testers, constantly questioning how things might break.
+
+* **Naming**: Effective naming of classes, methods, and variables results in self-documenting code. It’s not just about initial naming but also the ability to rename as understanding evolves.
+
+* **Consistency**: Managing complexity in programming is crucial. Consistency in naming, structure, and methods helps reduce accidental complexity, making patterns more recognizable.
+
+* **Learning**: The rapid pace of software development means constant learning is required. A good programmer not only learns fast but finds joy in the learning process.
+
+As undergraduate students preparing to enter the professional world, it's imperative that we strive to become proficient programmers.
