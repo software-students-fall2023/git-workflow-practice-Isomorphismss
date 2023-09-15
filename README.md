@@ -3,7 +3,9 @@ There's an insightful article that provides valuable tips and standards for beco
 
 ## What I found interesting about the article
 The author highlights five essential qualities that every proficient programmer should possess: 
+
 *Problem Decomposition, Scenario Analysis, Effective Naming, Consistency, Continuous Learning.*
+
 To elaborate on each, we have:
 * **Problem Decomposition**: A proficient programmer can break a problem down into smaller, manageable parts, ensuring that the solution is clear, easy to implement, test, and reason about.
 
