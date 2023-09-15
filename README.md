@@ -1,9 +1,9 @@
 # An article about how to be a good programmer
-There is an interesting and useful article says about the tips and standards of a good programmer. Check it out by clicking [here](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/).
+There's an insightful article that provides valuable tips and standards for becoming a good programmer. You can read it by clicking [here](https://henrikwarne.com/2014/06/30/what-makes-a-good-programmer/).
 
 ## What I found interesting about the article
-The author highlights five essential qualities that every proficient programmer should possess: <center>*Problem Decomposition, Scenario Analysis, Effective Naming, Consistency, Continuous Learning.*</center>
-
+The author highlights five essential qualities that every proficient programmer should possess: 
+*Problem Decomposition, Scenario Analysis, Effective Naming, Consistency, Continuous Learning.*
 To elaborate on each, we have:
 * **Problem Decomposition**: A proficient programmer can break a problem down into smaller, manageable parts, ensuring that the solution is clear, easy to implement, test, and reason about.
 
